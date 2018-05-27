@@ -18,4 +18,9 @@ http://www.iwantacve.cn/index.php/archives/7/
 **CVE-2018-9926：五指CMS 4.1.0存在CSRF漏洞可增加管理员账户**
 http://www.iwantacve.cn/index.php/archives/6/
 
+**CVE-2018-11403：DomainMod v4.09.03的account-owner.php页面XSS漏洞**
+http://www.iwantacve.cn/index.php/archives/14/
+
+**CVE-2018-11404：DomainMod v4.09.03的ssl-provider-account.php页面XSS漏洞**
+www.iwantacve.cn/index.php/archives/15/
 
