@@ -12,6 +12,12 @@
 
 套哥会把自己申请的和带小伙伴申请的cve一并统计在这里：
 
+**CVE-2018-11559：DomainMod 4.10.0存在存储型XSS漏洞**
+http://www.iwantacve.cn/index.php/archives/37/
+
+**CVE-2018-11558：DomainMod 4.10.0存在XSS漏洞**
+http://www.iwantacve.cn/index.php/archives/36/
+
 **CVE-2018-11404：DomainMod v4.09.03的ssl-provider-account.php页面XSS漏洞**
 www.iwantacve.cn/index.php/archives/15/
 
