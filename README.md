@@ -12,6 +12,12 @@
 
 套哥会把自己申请的和带小伙伴申请的cve一并统计在这里：
 
+**CVE-2018-11671：GreenCMS v2.3.0603存在CSRF漏洞可增加管理员账户**
+http://www.iwantacve.cn/index.php/archives/39/
+
+**CVE-2018-11670：GreenCMS v2.3.0603存在CSRF漏洞可获取webshell**
+http://www.iwantacve.cn/index.php/archives/38/
+
 **CVE-2018-11559：DomainMod 4.10.0存在存储型XSS漏洞**
 http://www.iwantacve.cn/index.php/archives/37/
 
